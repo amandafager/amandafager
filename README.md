@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-fager/)
+[![LinkedIn](https://img.shields.io/badge/-https://www.linkedin.com/in/amandafager/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandafager/)](https://www.linkedin.com/in/amandafager/)
 
 <!--
 **amandafager/amandafager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
